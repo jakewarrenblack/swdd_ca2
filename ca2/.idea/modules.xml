@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CA2/CA2.iml" filepath="$PROJECT_DIR$/CA2/CA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ca2_original_inheritance/ca2_original_inheritance.iml" filepath="$PROJECT_DIR$/ca2_original_inheritance/ca2_original_inheritance.iml" />
+    </modules>
+  </component>
+</project>
